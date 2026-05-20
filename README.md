@@ -3,7 +3,7 @@
 Reproducible code for:
 
 > Alzate-Casallas et al. (in prep.)  
-> *Preservation bias in the Middle Palaeolithic record of Southern Portugal? A geoarchaeological perspective from Companheira cave*
+> *Seismotectonic disruption and palimpsest formation revealed at the Middle Paleolithic Gruta da Companheira (Southern Portugal)*
 
 **Code author:** Lucía Cobo-Sánchez  
 **Data and archived outputs:** [ADD OSF LINK]
