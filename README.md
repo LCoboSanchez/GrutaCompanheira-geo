@@ -6,7 +6,7 @@ Reproducible code for:
 > *Seismotectonic disruption and palimpsest formation revealed at the Middle Paleolithic Gruta da Companheira (Southern Portugal)*
 
 **Code author:** Lucía Cobo-Sánchez  
-**Data and archived outputs:** [ADD OSF LINK]
+**Data and archived outputs:** [https://doi.org/10.17605/OSF.IO/2X3VB]
 
 ---
 
@@ -41,7 +41,7 @@ GDC_Spatial_Analysis/
 
 ### 1. Get the data
 
-Download the two data files from the [OSF project page](ADD OSF LINK) and place them in the `data/` folder:
+Download the two data files from the [OSF project page](https://doi.org/10.17605/OSF.IO/2X3VB) and place them in the `data/` folder:
 
 - `GDC_SPATIAL_FEB26_archmaterials.txt`
 - `GDC_CLEAN_DATABASE_FEB_2026.xlsx`
