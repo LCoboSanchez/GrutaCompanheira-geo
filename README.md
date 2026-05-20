@@ -2,7 +2,7 @@
 
 Reproducible code for:
 
-> Alzate-Casallas et al. (in prep.)  
+> Alzate-Casallas G., Cobo-Sánchez L., Cascalheira J. & Barbieri A. (submitted)  
 > *Seismotectonic disruption and palimpsest formation revealed at the Middle Paleolithic Gruta da Companheira (Southern Portugal)*
 
 **Code author:** Lucía Cobo-Sánchez  
@@ -185,7 +185,7 @@ Then install the system library:
 
 If you use this code, please cite the paper:
 
-> Alzate-Casallas et al. (in prep.) — *add full citation when published*
+> Alzate-Casallas G., Cobo-Sánchez L., Cascalheira J. & Barbieri A. (submitted) — *add full citation when published*
 
 ---
 
