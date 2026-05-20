@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# R session artefacts
+.Rhistory
+.RData
+.Rproj.user/
+
+# renv — version lockfile is tracked; installed package libraries are not
+renv/library/
+renv/staging/
+renv/python/
+renv/sandbox/
+
+# Generated outputs — reproducible from code + data
+# Individual figure PDFs (large binaries)
+output/*.pdf
+output/*.csv
+output/*.RData
+output/*.txt
+output/figures/individual/
+output/figures/composite/
+# Tables are kept — small and useful for quick inspection without re-running
+!output/tables/
+
+# Preserve directory structure for git
+!output/.gitkeep
+!output/figures/.gitkeep
+!output/figures/individual/.gitkeep
+!output/figures/composite/.gitkeep
+!output/tables/.gitkeep

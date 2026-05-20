@@ -1,0 +1,146 @@
+{
+  "R": {
+    "Version": "4.5.1",
+    "Repositories": [
+      {
+        "Name": "CRAN",
+        "URL": "https://cloud.r-project.org"
+      }
+    ]
+  },
+  "Packages": {
+    "here": {
+      "Package": "here",
+      "Version": "1.0.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "24b224366f9c2e7534d2344d10d59ef3"
+    },
+    "spatstat": {
+      "Package": "spatstat",
+      "Version": "3.3-3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "spatstat_3.3-3"
+    },
+    "spatstat.explore": {
+      "Package": "spatstat.explore",
+      "Version": "3.4-3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "spatstat.explore_3.4-3"
+    },
+    "spatstat.model": {
+      "Package": "spatstat.model",
+      "Version": "3.3-6",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "spatstat.model_3.3-6"
+    },
+    "spatstat.random": {
+      "Package": "spatstat.random",
+      "Version": "3.4-1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "spatstat.random_3.4-1"
+    },
+    "spatstat.geom": {
+      "Package": "spatstat.geom",
+      "Version": "3.4-1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "spatstat.geom_3.4-1"
+    },
+    "spatstat.linnet": {
+      "Package": "spatstat.linnet",
+      "Version": "3.2-6",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "spatstat.linnet_3.2-6"
+    },
+    "spatstat.univar": {
+      "Package": "spatstat.univar",
+      "Version": "3.1-3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "spatstat.univar_3.1-3"
+    },
+    "spatstat.data": {
+      "Package": "spatstat.data",
+      "Version": "3.1-6",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "spatstat.data_3.1-6"
+    },
+    "sparr": {
+      "Package": "sparr",
+      "Version": "2.3-16",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "sparr_2.3-16"
+    },
+    "ggplot2": {
+      "Package": "ggplot2",
+      "Version": "3.5.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "ggplot2_3.5.2"
+    },
+    "patchwork": {
+      "Package": "patchwork",
+      "Version": "1.3.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "patchwork_1.3.1"
+    },
+    "dplyr": {
+      "Package": "dplyr",
+      "Version": "1.1.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "dplyr_1.1.4"
+    },
+    "tidyr": {
+      "Package": "tidyr",
+      "Version": "1.3.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "tidyr_1.3.1"
+    },
+    "flextable": {
+      "Package": "flextable",
+      "Version": "0.9.9",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "flextable_0.9.9"
+    },
+    "dixon": {
+      "Package": "dixon",
+      "Version": "0.0-10",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "dixon_0.0-10"
+    },
+    "readxl": {
+      "Package": "readxl",
+      "Version": "1.4.5",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "readxl_1.4.5"
+    },
+    "magick": {
+      "Package": "magick",
+      "Version": "2.9.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "magick_2.9.0"
+    },
+    "cowplot": {
+      "Package": "cowplot",
+      "Version": "1.1.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "cowplot_1.1.3"
+    }
+  }
+}
